@@ -12,6 +12,7 @@ import javax.swing.JOptionPane;
 public class FuriaTwisterFinal {
 
     public static void main(String[] args) {
+        System.out.println("MK");
         Scanner input = new Scanner(System.in);
         String[] refugios = {"Cueva", "Montaña", "Bosque"};
         String inventarioUsu[] = new String[5];
